@@ -1,0 +1,7 @@
+ netsh wlan show profile
+
+to see ur wifi list
+
+then type "netsh wlan show profile "WIFINAME" key=clear 
+
+u type the name of the wifi u want to know its password but that only works with wifis u alerady have logged in to.
